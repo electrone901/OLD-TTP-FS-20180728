@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Investment Trading Company",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electrone901/TTP-FS-20180728.git"
+  },
+  "author": "Luis Carbajal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/electrone901/TTP-FS-20180728/issues"
+  },
+  "homepage": "https://github.com/electrone901/TTP-FS-20180728#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
